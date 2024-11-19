@@ -14,12 +14,13 @@
 
 1. ## [Installation de **Microsoft SQL Server**](./00_MSSQL_INSTALL/MSSQL_INSTALL.md) 
 
-Coming Soon
 
 2. ## [Rappel rapide du **Modèle Relationnel**](./01_RELATIONAL_MODEL/)
   
   - [Théorie](./01_RELATIONAL_MODEL/THEORY/RELATIONAL_MODEL_THEORY.md)
   - [Pratique](./01_RELATIONAL_MODEL/LAB/RELATIONAL_MODEL_LAB.md)  
+
+Coming Soon
   
 3. ## [Révision des structures de requêtes ***SQL*** de base, y compris la création de "vues"](./02_SQL_QUERIES/)  
 
